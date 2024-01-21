@@ -1,0 +1,20 @@
+Kartu Hasil Studi
+=================
+Nama      : Annisa Putri Aprilia
+NIM       : 231401036
+
+|=================================================|
+|No   | Matkul                              |Nilai|
+|=================================================|
+|1.   | Matematika Dasar                    |A    |
+|2.   | Pengantar Ilmu Komputer             |A    |
+|3.   | Praktikum Dasar Pemrograman         |B+   |
+|4.   | Organisasi Arsitektur Komputer      |B    |
+|5.   | Dasar Pemrograman                   |A    |
+|6.   | Logika Matematika                   |A    |
+|7.   | Bahasa Indonesia                    |B+   |
+|8.   | Pendidikan Pancasila                |B    |
+|=================================================|
+
+Total SKS  : 19
+IP Semester: 3.66
